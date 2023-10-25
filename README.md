@@ -12,7 +12,7 @@ undo/redo.
 ### Why this?
 
 This is handy if you want to learn Java or you just need simple text editor
-if you don't have it on Linux.  
+(if you don't have one on Linux).  
 
 
 ### I don't know how to use this?
