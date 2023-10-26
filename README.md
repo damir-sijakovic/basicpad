@@ -26,6 +26,10 @@ javac BasicPad.java
 java BasicPad
 
 
+#### How to setup Java project?
+
+https://jezgra.online/kako-postaviti-java-projekt-na-linuxu/ (use language button to translate...)
+
 #### Have fun
 
 ![alt text](basicpad.png)
